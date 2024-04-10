@@ -1,0 +1,35 @@
+#main-header { 
+    background-color: yellow; 
+    text-align: center; 
+  } 
+  .articles { 
+    margin-left: 190px; 
+    margin-bottom: 20px; 
+    border-left: 2px solid green; 
+    padding-left: 10px; 
+  } 
+  #menu { 
+    float: left; 
+  } 
+  #last-posts { 
+    float: right; 
+    border-width: 2px; 
+    border-color: green; 
+    border-style: dashed; 
+    text-align: right; 
+    padding: 10px; 
+  } 
+  #last-posts h2, 
+  ul { 
+    box-sizing: border-box; 
+  } 
+  ul { 
+    list-style: none; 
+    padding: 0; 
+  } 
+.floaters { 
+margin: 0; 
+} 
+.container { 
+display: block; 
+}
